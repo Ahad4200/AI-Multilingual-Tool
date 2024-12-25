@@ -3,7 +3,6 @@ TL;DR
 A simple tool to transcribe and voice-overs videos.
 
 
-#Full Explanation:
 # Video Translator
 
 This project is a video translation tool that extracts audio from a video file, transcribes it, translates the transcription into a target language, generates subtitles, and overlays the translated audio and subtitles back onto the video.
