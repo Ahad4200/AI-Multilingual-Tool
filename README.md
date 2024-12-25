@@ -76,7 +76,7 @@ This project is a video translation tool that extracts audio from a video file, 
 5. The output video will be saved in the same directory with translated audio and subtitles.
 
 ## Notes
-- Ensure that the input video is in a non-English language for translation to work correctly.
+- Translation process will be skipped if input video language is same as target language.
 - The application will open the output video automatically after processing.
 
 ## License
