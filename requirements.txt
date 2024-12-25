@@ -1,0 +1,4 @@
+     whisper
+     transformers
+     pyttsx3
+     srt
